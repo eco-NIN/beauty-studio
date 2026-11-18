@@ -1,0 +1,10 @@
+{
+  "name": "美容馆",
+  "appid": "",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "vueVersion": "3",
+  "mp-weixin": {
+    "appid": "touristappid"
+  }
+}

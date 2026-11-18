@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+!.env.development.example
+node_modules/
+dist/
+unpackage/
+project.private.config.json
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/

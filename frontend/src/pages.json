@@ -1,0 +1,15 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "美容馆"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarBackgroundColor": "#f9f6f1",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f9f6f1"
+  }
+}
